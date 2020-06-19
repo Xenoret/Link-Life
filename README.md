@@ -3,7 +3,7 @@
 #Linux
 
 $ git clone https://github.com/Xenoret/Link-Life.git  
-$ cd ll
+$ cd Link-Life  
 $ python ll.py
 
 $ Start script ./ll.py
