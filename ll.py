@@ -151,7 +151,6 @@ def menu():
 [3] - Purchases
 [4] - Entertainment
 [5] - Developer
-[0] - Display menu
 [00] - Exit
 \nEnter your choice: ''')
 	if start == '1':
