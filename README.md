@@ -2,7 +2,7 @@
 
 #Linux
 
-$ git clone https://github.com/Xenoret/Link-Life.git
+$ git clone https://github.com/Xenoret/Link-Life.git  
 $ cd ll
 $ python ll.py
 
