@@ -175,6 +175,8 @@ def menu():
 		os.system('cls | clear')
 		Developers()
 		menu()
+	elif start == '-': #music
+		web.open_new_tab('https://www.youtube.com/watch?v=WFATLs5P2_Y')
 	elif start == '00':
 		bye()
 	else:
